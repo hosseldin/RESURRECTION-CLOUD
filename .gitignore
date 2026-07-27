@@ -1,0 +1,15 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
+
+# Sensitive files
+*.tfvars
+*.tfvars.json
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
